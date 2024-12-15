@@ -20,17 +20,16 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Projeto para Desenvolver solucoes de IA para rede bancaria ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projeto para Desenvolver solucoes de IA para rede bancaria
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
+O conteudo foi criado a partir de curso DIO
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
